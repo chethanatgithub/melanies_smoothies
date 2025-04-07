@@ -11,7 +11,7 @@ helpful_links = [
 ]
 
 # Write directly to the app
-st.title("Customize Your Smoothie!🥤")
+st.title("My Parents new healthy dinner")
 st.write("Replace the code in this example app with your own code! And if you're new to Streamlit, here are some helpful links:")
 
 name_on_order=st.text_input('Name on Smoothie:')
