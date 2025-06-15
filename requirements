@@ -1,6 +1,5 @@
 # requirements.txt
 snowflake-snowpark-python
 snowflake-snowpark-functions
-streamlit
-python
+requests
 
