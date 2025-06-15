@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 
-from snowflake.snowpark.functions import col
+import snowflake.snowpark.functions.col
 
 import requests
 cnx=st.connection("snowflake")
