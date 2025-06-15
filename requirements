@@ -2,8 +2,4 @@
 snowflake-snowpark-python
 streamlit
 python
-pandas
-plotly
-yfinance
-pandas-datareader
-prophet
+
