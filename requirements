@@ -1,7 +1,6 @@
 # requirements.txt
 snowflake
 snowflake-snowpark-python
-snowflake-snowpark-functions
 pandas
 requests
 
