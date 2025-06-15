@@ -1,14 +1,11 @@
-# Import python packages
+th# Import python packages
 import streamlit as st
 from snowflake.snowpark.functions import col
 
 # Write directly to the app
 st.title("🥤Customize Your Smoothie!🥤")
 st.write(
-  """Replace this example with your own code!
-  **And if you're new to Streamlit,** check
-  out our easy-to-follow guides at
-  [docs.streamlit.io](https://docs.streamlit.io).
+  """Choose the fruit you wanth in your smoothie:.
   """
 )
 name_on_order = st.text_input("Name on Smoothie:")
