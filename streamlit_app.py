@@ -1,8 +1,8 @@
 # Import python packages
 import streamlit as st
 import pandas as pd
-import snowflake.snowpark.functions.abs
-#from snowflake.snowpark.functions import col
+
+from snowflake.snowpark.functions import col
 
 import requests
 cnx=st.connection("snowflake")
